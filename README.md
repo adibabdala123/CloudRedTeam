@@ -1,3 +1,4 @@
 # O que é AWS, Bucket S3 e como um atacante pode invadi-la
-![image](https://github.com/user-attachments/assets/54b43118-9f56-4ee9-897f-f489347e2f11)
+![image](https://github.com/user-attachments/assets/e533c2e1-d6af-4f3d-8108-399fc8abf9a5)
+
 
